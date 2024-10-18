@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet;
+}
+.container{
+        background-color: bisque;
+        background-size: cover;  
+        width: 1500px;
+        height: 1000px;
+}
+.content{
+   text-align: center;
+
+}
+.box2{
+    display: flex;
+}
